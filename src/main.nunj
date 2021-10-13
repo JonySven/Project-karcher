@@ -1,0 +1,103 @@
+<main class="main">
+     <div class="way">
+         <span>Главная > </span>
+         <span>Home & Gardern > </span>
+         <span>Бфтовые пылесосы > </span>
+         <span class="last-child">Пфлесос с аквафильтром Karcher DS 6.000 Mediclean</span>
+     </div>
+
+     <section class="product-text">
+
+         <h1 class="text-title">пылесос с водяным фильтром</h1>
+         <div class="bg"></div>
+         <h3 class="text-subtitle">Высочайшая сила всасывания и многоступенчатая
+              система фильтрации, реализованная в пылесосе DS 6000 Mediclean,
+              делают воздух в помещении до 99,99% чище. Аллергики могут
+              вздохнуть спокойно! Пылесос с аквафильтром DS 6.000 Mediclean
+               рекомендован Российской Ассоциацией Аллергологов и Клинических
+               иммунологов (РААКИ).</h3>
+     </section>
+<div class="wrapper-product">
+
+ <div class="product-photo" id="product-photo">
+
+     <div class="inner" id="inner">
+
+         <a href="./img/пикча (3).png"><img src="./img/дефолт.png"    alt="Миниатюра1"></a>
+         <a href="./img/qwe2.jpg"><img src="./img/пикча (1).png" alt="Миниатюра2"></a>
+         <a href="./img/qwe3.jpg"><img src="./img/пикча (2).png" alt="Миниатюра3"></a>
+         <a href="./img/qwe1.jpg"><img src="./img/пикча.png"     alt="Миниатюра4"></a>
+     </div>
+     <div class="big-photo">
+         <img  src="./img/пикча (3).png" alt="Стартовое фото">
+     </div>
+
+
+ </div>
+
+ <div class="product-description">
+
+     <div class="description-header" >
+
+         <div class="">
+             <input type="checkbox"  name="" id=""> в наличии
+             <h3 class="description-title" >Karcher DS 6.000 Mediclean</h3>
+         </div>
+
+         <div class="tag" id="tag" >
+             <img class="new" src="./img/новый.png" swg alt="">
+             <img class="hit" src="./img/хит.png" swn alt="">
+         </div>
+
+     </div>
+
+         <div class="wrapper-star">
+
+             <div class="stars">
+                 <div class="item active"></div>
+                 <div class="item active"></div>
+                 <div class="item active"></div>
+                 <div class="item active"></div>
+                 <div class="item default"></div>
+             </div>
+
+               <a hre f="#"><img src="./img/fa-commenting-o Оставить отзыв.png" alt="оставить отзыв"></a>
+
+         </div>
+
+
+     <div class="description-price">
+         <div class="bg">
+             <span class="price"><b>21 190 руб</b> </span>
+             <a href="#"><img src="./img/fa-shopping-basket.png" alt=""></a>
+         </div>
+
+
+         <div class="add">
+
+             <img src="./img/_fa-heart-o.png" alt=""><a href="#">В ИЗБРАННОЕ</a>
+             <img src="./img/_fa-files-o.png" alt=""><a href="#">СРАВНИТЬ</a>
+
+         </div>
+
+     </div>
+
+
+     <div class="description-text">
+         <p>Подробные <a href="">условия доставки</a> и <a href="">оплаты</a></p>
+         <a href="">Гарантия на бытовую технику 5 лет!</a>
+         <p>Качественная чистка полов, ковровых покрытий и мягкой мебели. Благодаря
+              дополнительному фильтру  HEPA 13 очищается воздух в помещении от мелких
+              частиц пыли, спор и пыльцы, вызывающих аллергию, а система Perma Power
+             увлажняет его. Легкий, удобный в эксплуатации. Рекомендован для использования
+             в медицинских учреждениях.</p>
+         <span> <b>Артикул</b>:1.195-202.0</span>
+
+     </div>
+
+
+
+
+ </div>
+</div>
+</main>

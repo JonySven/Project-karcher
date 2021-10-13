@@ -1,0 +1,109 @@
+<header class="header" id="header" >
+             <div class="container">   
+                <div class="header-top">
+                        
+                        <nav class="header-top-menu">
+                            <a href="">Главная</a>
+                            <a href="">О компании</a>
+                            <a href="">Оплата</a>
+                            <a href="">Доставка</a>
+                            <a href="">Гарантия</a>
+                            <a href="">Акции %</a>
+                            <a href="">Контакты</a>
+                        </nav>         
+                        <nav class="header-top-reg">
+                            <a href="#">Регистрация</a>
+                            <a href="#">Войти</a>
+                        </nav>
+                    
+                </div>
+          
+           
+             <div class="header-mid">
+              
+                    
+                    <div class="header-mid-logo">
+                        <img src="./img/лого.png" alt="">
+                        <p>Официальный дистрибьютер в Крыму 2005 года </p>
+                    </div>
+    
+                    <div class="header-mid-item">
+                        <a href=""><img src="./img/город.png" alt=""></a>
+                            <p>Ближайший магазин <br>
+                            <b>Симферополь</b><br>ул.Маяковского 14-Э</p>                     
+                    </div>
+    
+                    <div class="header-mid-item">
+                        <a href=""><img src="./img/часы.png" alt=""></a>
+                        <p>Пн-Пт: <br><b>09:00 - 18:00</b><br>Выходные: <br> Сб.-Вс.</p>
+                    </div>
+    
+                    <div class="header-mid-item ">
+
+                        <div class="item-call">
+                            <img src="./img/телефон.png" alt="" height="30">
+                            <p>+7(978) 729-02-15<br><br>(3652)24-82-31 </p>
+                        </div>
+                        
+                        <a class="btn-call" id="3" href="#">обратный звонок</a> 
+                    </div>
+    
+               
+            </div>
+
+        </div>  
+            <div class="header-bottom">
+
+                <div class="bottom-poisk" >
+
+                    <div class="wrapper-menu" >
+                        <a href="" class="menu" >Каталог</a> 
+                        <div class="item-li">
+                            <nav class="item">
+                                <a href="#">Товары</a>
+                                <a href="#">Список</a>
+                                <a href="#">Список</a>
+                                <a href="#">Список</a>
+                                <a href="#">Список</a>
+                                <a href="#">Список</a>
+                                <a href="#">Список</a>
+                                <a href="#">Список</a>
+                                <a href="#">Список</a>
+                                <a href="#">Список</a>
+                            </nav>
+                        </div>
+                    </div>
+
+
+
+                    <input type="text" placeholder="Что ищем?">
+
+                </div>
+
+                <div class="bottom-clik" >
+
+                    <div class="clik-item" >
+                        <a href="#"><img src="./img/_fa-heart-o.png" alt=""></a>
+                        <div class="counter">0</div>
+                    </div>
+
+                    <div class="clik-item">
+                        <a href="#"><img src="./img/_fa-files-o.png" alt=""></a>
+                        <div class="counter">0</div>
+                    </div>
+
+                    <div class="clik-item">
+                        <a href="#"><img src="./img/fa-shopping-basket.png" alt=""></a>
+                        <div class="counter">0</div> <style> </style> 
+                    </div>
+
+                    <span class="shop-total" > <b>На сумму- 23 140 руб</b> </span>
+              
+                </div>
+
+                
+
+                
+
+            </div>
+    </header>
